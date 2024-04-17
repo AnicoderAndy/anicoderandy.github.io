@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About 关于本站
+title: About
 permalink: /about/
 ---
 
@@ -13,6 +13,8 @@ permalink: /about/
 而读到这些奇怪文字的你，又会是怎样的反应？
 
 祝您玩得愉快。
+
+*****
 
 Hello. You might be wondering what this strange site is. To be honest, I wonder too, how strange people would visit this site.
 
