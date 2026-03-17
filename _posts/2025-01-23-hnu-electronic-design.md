@@ -1,7 +1,7 @@
 ---
 title:  "HNU 2024 级 电路与电子学 模型机综合设计实验报告"
 date:   2025-01-23 22:36:00 +0800
-categories: study
+categories: notes
 ---
 
 ## 前言

@@ -1,7 +1,7 @@
 ---
 title:  "九年"
 date:   2020-10-08 22:31:00 +0800
-categories: journal
+categories: experience
 ---
 ## 匆匆
 就这样过去了。本来计划着的离别也只是匆匆。匆匆。离开校门的那一刻，也许就是这九年的终章。
