@@ -7,8 +7,19 @@ layout: compress
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js"{% if site.site_theme == "dark" %} data-theme="dark"{% endif %}>
   <head>
-    {% include head.html %}
-    {% include head/custom.html %}
+    {% include head.html %} {% include head/custom.html %}
+    <style>
+      /* Center images */
+      .page__content img,
+      article img {
+        display: block;
+        max-width: 100%;
+        height: auto;
+        max-height: 400px;
+        margin-left: auto;
+        margin-right: auto;
+      }
+    </style>
   </head>
 
   <body>
