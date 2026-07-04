@@ -30,4 +30,8 @@ Email: anicoder@hnu.edu.cn
 </table>
 
 ## Research
-I have recently finished a research project on parametric curves and differentiable rendering, which is currently under review. I am open to new research opportunities in the field of Computer Graphics, and I am eager to contribute to innovative projects and collaborate with other researchers.
+Every journey has a beginning. This section currently contains my first research article, with more work to come.
+
+- **J. Qiu** and S. Zhou. NURBS Splatting: NURBS Splatting: A Unified Differentiable Rendering Framework for Vector Graphics. ***ECCV***, 2026. [paper](https://arxiv.org/abs/2606.31764) \| [code](https://github.com/anicoder/nurbs-splatting)
+
+I am open to new research opportunities in the field of Computer Graphics, and I am eager to contribute to innovative projects and collaborate with other researchers.
