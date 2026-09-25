@@ -9,56 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* BEng in Computer Science, Hunan University, China, 2023 - 2027 (expected)
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
+## Publications
+  See also at [Google Scholar](https://scholar.google.com/citations?user=xfuIazwAAAAJ).
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Service and leadership
+
+- Served as a teaching assistant for *Computer Systems* at Hunan Univ., Spring 2026
+- Served as President of Hunan Univ. Student Chorus, 2024-2025
+
+## CV of Failures
+
+This section is inspired by the [article](https://doi.org/10.1038/nj7322-467a) by Dr. Melanie Stefan.
+
+- Rejected from MSc programs at Shanghai Jiaotong University and University of Science and Technology of China in 2026.
+- Rejected from High-Level Art Troupe (高水平艺术团) programs at Tsinghua University, Shanghai Jiaotong University, Wuhan University, and Southeast University in 2023.
